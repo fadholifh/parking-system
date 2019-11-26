@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_park" value="name:id;datatype:int,name:nopol;datatype:string,name:tanggal;datatype:date,name:masuk;datatype:time,name:keluar;datatype:time,name:lama_parkir;datatype:int,name:biaya;datatype:string" />
+</info>

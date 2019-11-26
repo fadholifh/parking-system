@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kasbulanan" value="name:id;datatype:int,name:nopol;datatype:string,name:tanggal;datatype:date,name:masuk;datatype:time,name:keluar;datatype:time,name:lama_parkir;datatype:int,name:biaya;datatype:string,name:id_petugas;datatype:int,name:nama_lengkap;datatype:string" />
+	<infoitem key="UD_jumlah_total" value="name:SUM(biaya);datatype:real" />
+	<infoitem key="UD_ambil_bulan" value="name:tanggal;datatype:date" />
+	<infoitem key="UD_ambil_tahun" value="name:tanggal;datatype:date" />
+	<infoitem key="UD_petugas" value="name:id;datatype:int,name:nama_lengkap;datatype:string" />
+</info>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_park" value="name:id;datatype:int,name:nopol;datatype:string,name:tanggal;datatype:date,name:masuk;datatype:time,name:keluar;datatype:time,name:lama_parkir;datatype:int,name:biaya;datatype:string,name:id_petugas;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:tanggal;datatype:date" />
+	<infoitem key="UD_isi_harian" value="name:id;datatype:int,name:nopol;datatype:string,name:tanggal;datatype:date,name:masuk;datatype:time,name:keluar;datatype:time,name:lama_parkir;datatype:int,name:biaya;datatype:string,name:id_petugas;datatype:int" />
+	<infoitem key="UD_total_isi" value="name:SUM(biaya);datatype:real" />
+</info>
